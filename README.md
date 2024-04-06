@@ -1,3 +1,6 @@
+STEPS TO DEPLOY THE APPLICATION
+
+
 Deployment Configuration:
 Created a Kubernetes Deployment configuration file (deployment.yaml) for the React to-do app. This file specifies the container image (amrudesh072/react-to-do-app) and exposes port 80.
 
